@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "name": "Winter Coat",
+            "imageURL": "https://static.standard.co.uk/s3fs-public/thumbnails/image/2019/09/03/14/best-coats-under-50.jpg?width=1200",
+            "brand": "OSIRUS",
+            "price": 100
+        },
+        {
+            "name": "Cotton Sweatshirt",
+            "imageURL": "https://ae01.alicdn.com/kf/HTB13uvLNpXXXXaCXpXXq6xXFXXXR/Fashion-Women-Winter-Jacket-And-Coat-Slim-Thick-Warm-cotton-Coat-Zipper-Cotton-women-long-cotton.jpg_Q90.jpg_.webp",
+            "brand": "OSIRUS",
+            "price": 49
+        },
+        {
+            "name": "Cotton Pant",
+            "imageURL": "https://www.shopolics.com/uploads/images/full/Olive-Green-Cotton-Slub-Solid-Women-Pant-33295.jpg",
+            "brand": "OSIRUS",
+            "price": 58
+        },
+        {
+            "name": "Green Sweater",
+            "imageURL": "https://cdn.shopify.com/s/files/1/0065/4068/9493/products/hoodie-champion-forest-green-seattle-hoodie-1.jpg",
+            "brand": "OSIRUS",
+            "price": 69
+        }
+    ]
+}
